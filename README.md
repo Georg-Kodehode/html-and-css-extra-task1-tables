@@ -1,1 +1,8 @@
-# HTML-and-CSS-extra-task1-tables
+# HTML and CSS Extra Task #1 - Tables
+
+Task done using:
+
+- HTML
+- CSS
+
+Task given to me by [JobLoop](https://jobloop.no/).
